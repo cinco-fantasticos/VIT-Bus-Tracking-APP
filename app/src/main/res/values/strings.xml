@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bus-Tracking</string>
+
+
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Find the Bus Location</string>
+    <string name="second_slide_title">Check your schedule</string>
+    <string name="third_slide_title">Change your preferences</string>
+    <string name="fourth_slide_title">Manage your time easily</string>
+
+    <!--Desc-->
+    <string name="first_slide_desc">You can find the location of the bus that is assigned to your stop</string>
+</resources>
